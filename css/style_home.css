@@ -203,3 +203,84 @@ button:hover {
 	height: 175px;
 	width: 250px;
 }
+
+.footer {
+	background: #15181f url("../Images/bg-texture.jpg") repeat;
+	color: #fff;
+}
+
+.middle {
+	background: #fff;
+}
+
+.hero {
+	background: #333 url("../Images/bg-hero.jpg") no-repeat 50% 50%;
+	background-size: cover;
+	height: 465px;
+	padding: 0px;
+	margin: 0px;
+}
+
+.footer {
+	height: 200px;
+	background-color: lightgrey;
+}
+
+.footer h2 {
+	color: #000;
+}
+
+.footer .copyright {
+	color: #000;
+	margin-top: 10px;
+	padding-bottom: 20px;
+}
+
+.footer #logo {
+	font-size: 30px;
+	font-weight: bold;
+	color: #000;
+	margin-top: 0px;
+	margin-bottom: 0px;
+}
+
+.footer #copyright {
+	margin-top: 10px;
+	color: #000;
+	font-size: 20px;
+}
+
+.footer #follow-us {
+	margin-top: 15px;
+	margin-bottom: 0px;
+	font-size: 30px;
+	font-weight: bold;
+	color: #000;
+}
+
+#follow-us a {
+	color: #000;
+	font-weight: single;
+}
+
+#follow-us a:hover {
+	color: grey;
+}
+
+.footer .nav {
+	margin-top: 0px;
+}
+.footer .nav li {
+    float: left;
+	margin-left: 20px;
+}
+.footer .nav a {
+	font-weight: bold;
+	font-size: 20px;
+    display: inline-block;
+    line-height: 62px;
+    color: #000;
+}
+
+.footer .nav a:hover {
+    color: #fff;
