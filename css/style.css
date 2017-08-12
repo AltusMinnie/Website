@@ -191,5 +191,26 @@ a {
 .comment-author {
 		color: #4116af;
 		text-transform: uppercase;
+}
 
+.image-banner {
+		color: #f7f7f9;
+		background-size: cover;
+	  background-repeat: no-repeat;
+	  background-position: 50% 50%;
+		position: relative;
+}
+
+.mask {
+	padding: 5rem;
+	height: 100%;
+	width: 100%;
+	background-color: rgba(1,1,1,.5);
+}
+
+.gradient-banner {
+	color: #f7f7f9;
+	padding: 5rem;
+	background: linear-gradient(45deg, #4116af, #4a90e2);
+	text-align: center;
 }
